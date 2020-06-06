@@ -1,2 +1,2 @@
 # SCAI
-S
+StarCraft Broodwar AI efforts
